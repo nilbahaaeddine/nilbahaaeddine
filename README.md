@@ -6,10 +6,17 @@
 
 ---
 
+## Languages and tools :
+
+Loading...
+
+---
+
 ## Connect with me :
 
 [<img align="left" alt="Website" width="22px" src="assets/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="assets/linkedin.svg" />][linkedin]
+<br />
 
 ---
 
