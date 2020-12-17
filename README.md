@@ -11,6 +11,12 @@
 [<img align="left" alt="Website" width="22px" src="assets/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="assets/linkedin.svg" />][linkedin]
 
+---
+
+<details>
+  <summary>:zap: My GitHub stats</summary>
+  <img align="left" alt="My GitHub stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nilbahaaeddine&show_icons=true&hide_border=true" />
+</details>
 
 [website]: https://www.nilbahaaeddine.ovh
 [linkedin]: https://linkedin.com/in/nilbahaaeddine
