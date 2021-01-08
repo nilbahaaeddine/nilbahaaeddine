@@ -1,7 +1,7 @@
 ## Hi there, I am Bahaa Eddine NIL
 
 - I am currently looking for an internship.
-- I am currently working on a [SPARQL egine][sparqlengine]
+- I am currently working on a [semantic relation extraction egine][SemanticRelationExtraction]
 - I am currently learning everything.
 
 ---
@@ -27,4 +27,4 @@ Loading...
 
 [website]: https://www.nilbahaaeddine.ovh
 [linkedin]: https://linkedin.com/in/nilbahaaeddine
-[sparqlengine]: https://github.com/nilbahaaeddine/SPARQL_Engine
+[SemanticRelationExtraction]: https://github.com/nilbahaaeddine/Semantic-Relation-Extraction
