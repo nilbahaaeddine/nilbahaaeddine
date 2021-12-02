@@ -1,7 +1,6 @@
 ## Hi there, I am Bahaa Eddine NIL
 
-- I am currently looking for an internship.
-- I am currently working on a [semantic relation extraction egine][SemanticRelationExtraction]
+- I am currently looking for a job as a data engineer.
 - I am currently learning everything.
 
 ---
